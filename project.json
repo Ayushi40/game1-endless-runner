@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "game1-endless-runner",
+  "id": "0a10abb3-977c-4e90-856a-5e58b20d4b79",
+  "version": "2.4.5",
+  "isNew": false
+}
